@@ -3,14 +3,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/license/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/github/repo-size/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/IDN-C-X/PowerfulBotStatus?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/repo-size/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/IDN-C-X/IDN-PowerfulBotStatus?style=for-the-badge" alt="Issues">
 </p>  
 
 ## Config Vars
@@ -31,7 +31,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IDN-C-X/PowerfulBotStatus)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IDN-C-X/IDN-PowerfulBotStatus)
     
 ## Credits
 - [aryazakaria01](https://github.com/aryazakaria01)
@@ -47,4 +47,4 @@
 - [📞 Contact Our Team](https://t.me/IDNCoderX)
 ```
 ## Read GNU AFFERO GENERAL PUBLIC LICENSE: 
-[LICENSE](https://github.com/IDN-C-X/PowerfulBotStatus/blob/main/LICENSE)
+[LICENSE](https://github.com/IDN-C-X/IDN-PowerfulBotStatus/blob/main/LICENSE)

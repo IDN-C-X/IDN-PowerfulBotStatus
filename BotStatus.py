@@ -46,7 +46,7 @@ async def main_idncoder():
                                     pass
                             await app.read_history(bot)
                         else:
-                            xxx_teletips += f"\n\n🤖 **BOT**: @{bot}\n🟢 **STATUS**: Alive ✅"
+                            xxx_idncoder += f"\n\n🤖 **BOT**: @{bot}\n🟢 **STATUS**: Alive ✅"
                             await app.read_history(bot)
                     except FloodWait as e:
                         await asyncio.sleep(e.x)            

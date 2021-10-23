@@ -1,4 +1,4 @@
-# Copyright ©️ 2021 IDN-C-X. All Rights Reserved
+# Powered by IDN-C-X. All Rights Reserved
 # You are free to use this code in any of your project, but you must include the following in your README.md (Copy & paste)
 
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/PowerfulBotStatus/blob/main/LICENSE
@@ -20,6 +20,7 @@ BOT_LIST = [i.strip() for i in os.environ.get("BOT_LIST").split(' ')]
 CHANNEL_OR_GROUP_ID = int(os.environ["CHANNEL_OR_GROUP_ID"])
 MESSAGE_ID = int(os.environ["MESSAGE_ID"])
 BOT_ADMIN_IDS = [int(i.strip()) for i in os.environ.get("BOT_ADMIN_IDS").split(' ')]
+COOLDOWN = os.environ["COOLDOWN"]
 
 async def main_idncoder():
     async with app:
@@ -55,6 +56,6 @@ async def main_idncoder():
                 xxx_idncoder += f"\n\n✔️ Last checked on: {last_update} ({TIME_ZONE})\n\n<i>♻️ Updates every 45 minutes - Powered By @IDNCoderX</i>"
                 await app.edit_message_text(int(CHANNEL_OR_GROUP_ID), MESSAGE_ID, xxx_teletips)
                 print(f"Last checked on: {last_update}")                
-                await asyncio.sleep(1500)
+                await asyncio.sleep(COOLDOWN)
                         
 app.run(main_idncoder())

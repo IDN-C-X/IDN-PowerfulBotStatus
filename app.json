@@ -43,7 +43,7 @@
             "required": true
         },
         "COOLDOWN": {
-            "description": "You can set your custom cooldown time",
+            "description": "You can set your custom cooldown time, value must integer and on second. don't change if u didn't know",
             "value": "86400",
             "required": true
         }

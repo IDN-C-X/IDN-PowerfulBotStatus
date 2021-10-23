@@ -41,6 +41,11 @@
         "TIME_ZONE": {
             "description": "Your time zone (Example: Asia/Kolkata)",
             "required": true
+        },
+        "COOLDOWN": {
+            "description": "You can set your custom cooldown time",
+            "value": "86400",
+            "required": true
         }
     },
     "formation": {

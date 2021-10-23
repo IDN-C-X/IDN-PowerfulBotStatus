@@ -22,7 +22,7 @@
 6. `MESSAGE_ID` : Telegram id of message from your channel or group (Example: 10)
 7. `BOT_ADMIN_IDS` : Bot admin(s) id(s) (Example: 1357907531 2468097531 3579864213) - Not Required!
 8. `TIME_ZONE`: Your time zone (Example: Asia/Kolkata)
-9. `COOLDOWN`: You can set your custom time for cooldown, Value must integer and timr is on second.
+9. `COOLDOWN`: You can set your custom time for cooldown, Value must integer and time is on second.
 
 <p align="center">
 <img src="https://telegra.ph/file/c6f4e0d6caeed937a414f.jpg">
